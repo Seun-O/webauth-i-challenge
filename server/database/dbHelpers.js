@@ -27,7 +27,7 @@ const getUsers = () => {
 
 /*
 const execute = async () => {
-  const data = await find("akali");
+  const data = await addUser();
   console.log(data);
 };
 
